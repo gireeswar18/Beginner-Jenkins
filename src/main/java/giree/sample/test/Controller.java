@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping("/")
     public String root() {
-        return "Spring Boot + Jenkins working fine!";
+        return "Spring Boot + Jenkins working fine! Trigger Added!";
     }
 
 }
